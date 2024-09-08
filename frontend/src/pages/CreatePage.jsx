@@ -73,7 +73,7 @@ const CreatePage = () => {
             />
 
             <Button colorScheme='blue' onClick={handleAddProduct} w={'full'}>
-              Add Nugger
+              Add
             </Button>
 
           </VStack>
