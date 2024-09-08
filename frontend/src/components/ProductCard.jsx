@@ -96,7 +96,7 @@ const ProductCard = ({product}) => {
                             value={updatedProduct.name}
                             onChange={(e) => setUpdatedProduct({...updatedProduct, name: e.target.value})}
                         />
-                        <Input placeholder='Product Price' type='number' name='price'
+                        <Input placeholder='Price' type='number' name='price'
                             value={updatedProduct.price}
                             onChange={(e) => setUpdatedProduct({...updatedProduct, price: e.target.value})}
                         />

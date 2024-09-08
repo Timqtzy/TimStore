@@ -33,7 +33,7 @@ const Navbar = () => {
           fontWeight={'extrabold'}
           textTransform={'uppercase'}
         >
-          <Link to={"/"}>Black Store</Link>
+          <Link to={"/"}>Tim Store</Link>
         </Text>
         <HStack spacing={2} alignItems={'center'}>
           <Link to={"/create"}>

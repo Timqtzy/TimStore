@@ -44,7 +44,7 @@ const CreatePage = () => {
         spacing={8}
       >
         <Heading as={"h1"} size={"2xl"} textAlign={"center"} mb={8}>
-          Create New Black Product
+          Create New Product
         </Heading>
 
         <Box
